@@ -1,0 +1,47 @@
+/* Fonts */
+
+@font-face {
+  font-family: 'ubuntu-light';
+  src: url('../fonts/Ubuntu/Ubuntu-Light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Ubuntu/Ubuntu-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Light.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'ubuntu-regular';
+  src: url('../fonts/Ubuntu/Ubuntu-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Ubuntu/Ubuntu-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'ubuntu-medium';
+  src: url('../fonts/Ubuntu/Ubuntu-Medium.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Ubuntu/Ubuntu-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'ubuntu-bold';
+  src: url('../fonts/Ubuntu/Ubuntu-Bold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Ubuntu/Ubuntu-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Ubuntu/Ubuntu-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'productsans-light';
+  src: url('../fonts/ProductSans/ProductSans-Light.woff')  format('woff');
+}
+@font-face {
+  font-family: 'productsans-regular';
+  src: url('../fonts/ProductSans/ProductSans-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'productsans-medium';
+  src: url('../fonts/ProductSans/ProductSans-Medium.woff')  format('woff');
+}
+@font-face {
+  font-family: 'productsans-bold';
+  src: url('../fonts/ProductSans/ProductSans-Bold.woff') format('woff');
+}
